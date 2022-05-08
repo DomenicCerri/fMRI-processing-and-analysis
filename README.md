@@ -16,5 +16,6 @@ Python 2.7
 PyNIT (Python Neuroimaging Toolkit) https://github.com/dvm-shlee/PyNIT.git
 
 
-    # Additional dependency for "fMRI-Timeseries-Complex" only:
-    PyNSP (Python Neuroimaging Signal Processing) https://github.com/dvm-shlee/PyNSP.git
+# Additional dependency for "fMRI-Timeseries-Complex" only:
+
+PyNSP (Python Neuroimaging Signal Processing) https://github.com/dvm-shlee/PyNSP.git
